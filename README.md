@@ -5,7 +5,7 @@
 - 🎯 **Goal**: Building innovative software solutions
 - 🔭 **Currently learning**: Python, HTML, CSS, JavaScript
 - 🎮 **Interests**: Game Development, Web Development, Open Source
-- 📧 **How to reach me**: aaravdevelops@proton.me
+- 📧 **How to reach me**: aaravdevelops@therategmail.com
 - 👨 **Pronouns**: He/Him
 
 ---
@@ -100,7 +100,7 @@ I'm a young developer with a passion for creating things with code. I love explo
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:aaravdevelops@proton.me">
+  <a href="mailto:aaravdevelops@therategmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://github.com/Aaravdevelops">
